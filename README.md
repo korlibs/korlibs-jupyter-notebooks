@@ -6,11 +6,15 @@ Samples using Kolin Kernel for Jupyter Notebooks
 
 To install:
 
-```kotlin
+```bash
 pip3 install notebook
 pip3 install -i https://test.pypi.org/simple/ kotlin-jupyter-kernel
 ```
 
-```kotlin
+```bash
 jupyter notebook
 ```
+
+You can preview notebooks via github:
+* <https://github.com/korlibs/korlibs-jupyter/blob/main/klock.ipynb>
+* <https://github.com/korlibs/korlibs-jupyter/blob/main/korim.ipynb>
