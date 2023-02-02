@@ -1,5 +1,7 @@
 # korlibs-jupyter
 
+You can use them in IntelliJ with: <https://plugins.jetbrains.com/plugin/16340-kotlin-notebook>
+
 Samples using Kolin Kernel for Jupyter Notebooks
 
 <https://github.com/Kotlin/kotlin-jupyter>
